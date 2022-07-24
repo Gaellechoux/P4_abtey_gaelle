@@ -676,8 +676,12 @@ a {
     margin: auto auto auto auto;
 }
 
+.citation{
+    font-style: italic;
+    font-size: 17px;
+}
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -753,7 +757,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(85 82 75 / 54%);
     padding: 40px 40px 40px 40px;
 }
 
